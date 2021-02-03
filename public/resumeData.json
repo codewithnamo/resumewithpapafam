@@ -1,45 +1,45 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
+    "name": "Harrison Kim",
+    "occupation": "Aspiring Entrepreneur",
+    "description": "Nomad Paradise Taitung",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "bio": "Hi there! I am Harrison! I use to run the Shanghai chapter of Le Wagon, a 9-week intensive coding bootcamp that has chapters in 40 different cities around the world. I love to empower people and improve people's lives. At the intersection of design, technology and sustainability, I aim to build products or services that improve people's physical health, mental health as well as environment's health. ",
+    "contactmessage": "Currently building an interntational community of professionals based in Taiwan on Line group chat. I plan to build a digital nomad paradise in Taitung, on the east coast of Taiwan. If you're interested in Taiwan in any way, hit me up!",
+    "email": "cj_918@hotmail.com",
+    "phone": "+886 123 456 789",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
+      "street": "123 Valuable Legacy",
+      "city": "Taipei",
+      "state": "Taiwan",
       "zip": "W3B D3V"
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "website": "https://www.shanghaiexitentry.com",
+    "resumedownload": "https://www.shanghaiexitentry.com",
     "social": [
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
+        "url": "https://www.youtube.com/channel/UC_wREbK26f7xtozHJdud-rQ",
         "className": "fa fa-youtube"
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/theharrisonkim",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/theharrisonkim",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/foodandarchitecture/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/codewithnamo",
         "className": "fa fa-github"
       }
     ]
@@ -48,18 +48,18 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "University of Toronto - CA",
+        "degree": "Honours Bachelor of Arts",
+        "graduated": "June 2013",
+        "description": "Double Major in Architecture and Economics"
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "Taiwan Mecca",
+        "title": "Founder",
+        "years": "Nov 2020 - Present",
+        "description": "Creating a nomad paradise destination for remote workers, backpackers and aspiring remote workers."
       }
     ],
     "skills": [
@@ -68,7 +68,7 @@
         "level": "100%"
       },
       {
-        "name": "Python",
+        "name": "Ruby",
         "level": "85%"
       },
       {
@@ -77,10 +77,14 @@
       },
       {
         "name": "JavaScript",
-        "level": "99%"
+        "level": "89%"
       },
       {
         "name": "Web Development",
+        "level": "95%"
+      },
+      {
+        "name": "Wordpress",
         "level": "95%"
       }
     ]
@@ -88,34 +92,32 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
+        "title": "Canada Day in Taipei",
         "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "image": "canada-day.jpg",
+        "url": "https://youtu.be/602b2pfNEZA"
       },
       {
-        "title": "Gmail Clone (React JS)",
+        "title": "Alex's Proposal",
         "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
-      },
-      {
-        "title": "LinkedIn Clone (React JS)",
-        "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "image": "alex-proposal.jpg",
+        "url": "https://youtu.be/4ayMrAVXIcU"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
+        "text": "The man, the myth, the legend. Logistics is a thankless job and when done well, you don't see it. Everything in the camp, from start to finish, was executed without any noticeable issues from the students. Awesome job.",
+        "user": "Stefan Wawrzyn"
       },
       {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "Harrison is the bomb! I really appreciated Harrison's help in the second week - he really caught me in time and refused to let me go home in terrible spirits! He also discussed with me in how I could manage myself better in the course and it made all the difference. Thank you so much for your insights and discussions Harrison, I don't think I could have made it through without that chat that night!!!!",
+        "user": "Sophie Li"
+      },
+      {
+        "text": "Always a pleasure to talk to and work with! Harrison genuinely cares about the students and has the talent to give constructive, unbiased feedback about projects and other things in general. His optimism and sincerity made it very easy for me to open up and discuss about things or ask for help!!",
+        "user": "Chisanu Vajanopath"
       }
     ]
   }
